@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oofahahngo.karchercentrum.com/sitemap.xml
